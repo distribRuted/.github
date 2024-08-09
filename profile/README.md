@@ -1,5 +1,3 @@
-<img src="../distribRuted.jpg" alt="Alt Text" width="450"/>
-
 **The source code will be released very soon. Stay tuned! 👀**
 
 [Please follow us on X to keep up with the latest updates and newly released distributed attack modules.](https://x.com/distribRuted)
@@ -23,3 +21,7 @@ We especially need your help in the following areas:
 You can send us a DM on X or email our developers!
 - [distribRuted (@distribRuted) / X](https://x.com/distribRuted)
 - root@numanozdemir.com
+
+## Screenshot
+<img src="../distribRuted.jpg" alt="A screenshot from the first version of the distribRuted framework." width="500"/>
+
