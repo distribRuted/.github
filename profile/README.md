@@ -1,6 +1,4 @@
-<center>
-    <img src="../distribRuted.jpg" alt="Alt Text" width="500"/>
-</center>
+<img src="../distribRuted.jpg" alt="Alt Text" width="450"/>
 
 **The source code will be released very soon. Stay tuned! 👀**
 
