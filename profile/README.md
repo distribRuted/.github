@@ -1,4 +1,7 @@
-## The source code will be released soon. Stay tuned! 👀
+# The Beta version of distribRuted has been released for Black Hat! 😎
+[The source code is available here!](https://github.com/distribRuted/framework)
+
+## The v1 source code will be released soon. Stay tuned! 👀
 [Please follow us on X to keep up with the latest updates and newly released distributed attack modules.](https://x.com/distribRuted)
 
 ## What is distribRuted? 🤔
